@@ -1,0 +1,9 @@
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/App.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/model/Category.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/model/Expense.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/repo/CsvExpenseRepository.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/repo/ExpenseRepository.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/repo/SqliteExpenseRepository.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/service/ExpenseService.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/ui/ExpenseRow.java
+/Users/ramonbaez/IdeaProjects/finance-manager-java/src/main/java/com/ray/finance/ui/FinanceFxApp.java
