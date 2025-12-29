@@ -1,9 +1,0 @@
-com/ray/finance/ui/FinanceFxApp.class
-com/ray/finance/App.class
-com/ray/finance/repo/SqliteExpenseRepository.class
-com/ray/finance/repo/ExpenseRepository.class
-com/ray/finance/service/ExpenseService.class
-com/ray/finance/model/Category.class
-com/ray/finance/ui/ExpenseRow.class
-com/ray/finance/repo/CsvExpenseRepository.class
-com/ray/finance/model/Expense.class
